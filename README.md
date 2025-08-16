@@ -26,6 +26,8 @@ and if you dare yawn twice… boom!
 🚨 Red Alert Mode with a funny roast message
 It even saves screenshots so you can relive your sleepy crimes forever 💤📂.
 
+We can add more features to send the weird screenshots to someone or make alarms in the inverted time of yawning etc..
+
 ## Technical Details
 ### Technologies/Components Used
 - Languages used 🐍:Python 3.10.11
